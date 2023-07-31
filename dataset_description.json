@@ -1,8 +1,15 @@
-{"BIDSVersion":"1.6.0",
-    "License":"CCO license",
-    "Name":"Martin Norgaard's brain",
-    "Authors":["Martin Norgaard", "Martin Norgaard"],
-    "Acknowledgements":"Martin Norgaard",
-    "HowToAcknowledge":"Martin Norgaard",
-    "Funding":["0$"],
-    "DatasetDOI":""}
+{
+    "BIDSVersion": "1.6.0",
+    "License": "CC0",
+    "Name": "Martin Norgaard's brain",
+    "Authors": [
+        "Martin Norgaard",
+        "Martin Norgaard"
+    ],
+    "Acknowledgements": "Martin Norgaard",
+    "HowToAcknowledge": "Martin Norgaard",
+    "Funding": [
+        "0$"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004650.v1.0.0"
+}
